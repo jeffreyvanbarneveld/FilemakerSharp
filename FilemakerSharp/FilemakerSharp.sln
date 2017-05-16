@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilemakerSharp", "FilemakerSharp\FilemakerSharp.csproj", "{34638BE1-E87B-4967-B883-E0CECDF0FC84}"
+EndProject
+Project("{FF286327-C783-4F7A-AB73-9BCBAD0D4460}") = "FilemakerSharp.Package", "FilemakerSharp.Package\FilemakerSharp.Package.nuproj", "{BC0CD5E9-3202-4320-9DB3-0B431DA81276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34638BE1-E87B-4967-B883-E0CECDF0FC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34638BE1-E87B-4967-B883-E0CECDF0FC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34638BE1-E87B-4967-B883-E0CECDF0FC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34638BE1-E87B-4967-B883-E0CECDF0FC84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0CD5E9-3202-4320-9DB3-0B431DA81276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0CD5E9-3202-4320-9DB3-0B431DA81276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0CD5E9-3202-4320-9DB3-0B431DA81276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0CD5E9-3202-4320-9DB3-0B431DA81276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
